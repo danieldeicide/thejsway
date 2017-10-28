@@ -1,30 +1,30 @@
-# About this book
+# Despre această carte
 
-First thing first: thanks for having chosen this book. I hope reading it will be both beneficial and pleasurable to you.
+Primul lucru este mai întâi: mulțumesc că ați ales această carte. Sper că ați citit că va fi atât benefic, cât și plăcut pentru dvs.
 
-## Who this book is for
+## Cine este pentru această carte
 
-This book is primarily designed for beginners. Having taught programming basics to hundreds of students, I tried to write it in the most friendly and accessible way possible. My goal was that no matter their background, everyone interested in programming should be able to follow along without too much difficulty.
+Această carte este concepută în primul rând pentru începători. După ce am predat elementele de bază ale programării la sute de studenți, am încercat să o scriu în modul cel mai prietenos și accesibil posibil. Scopul meu a fost că, indiferent de fondul lor, toți cei interesați de programare ar trebui să poată urma fără prea multă dificultate.
 
-However, this book can also be useful to people having some experience in software development. The JavaScript language is kind of a strange beast. It shares some similarities with other well-known programming languages such as Java or C#, starting with its syntax. On the other hand, JavaScript has *a lot* of unique characteristics that are worth learning. This book covers a fair number of them. As such, it will be of interest to those wanting to get serious with JavaScript or needing their skills refreshed with the latest language evolutions.
+Cu toate acestea, această carte poate fi folositoare și pentru persoanele care au experiență în dezvoltarea de software. Limba JavaScript este un fel de fiară ciudată. Acesta împărtășește unele asemănări cu alte limbi de programare bine cunoscute, cum ar fi Java sau C #, începând cu sintaxa sa. Pe de altă parte, JavaScript are * o mulțime * de caracteristici unice care merită învățate. Această carte acoperă un număr corect de ele. Ca atare, va fi de interes pentru cei care doresc să devină serioși cu JavaScript sau care au nevoie de abilitățile lor refăcute cu cele mai recente evoluții de limbă.
 
-## Overview
+## Prezentare generală
 
-This book is divided into three main parts. The first one teaches the basics of programming with JavaScript. The second one explains how to use JavaScript to create interactive web pages. The third one deals with web application development on both the client and server sides. Each part depends on the previous ones, but there's no other prerequisite to reading.
+Această carte este împărțită în trei părți principale. Primul preda baza de programare cu JavaScript. Al doilea explică modul de utilizare a JavaScript pentru a crea pagini web interactive. Cea de-a treia se referă la dezvoltarea de aplicații web pe ambele părți ale clientului și ale serverului. Fiecare parte depinde de cele anterioare, dar nu există altă condiție pentru citire.
 
-Each chapter starts with a **TL;DR** paragraph which summarizes it, so you'll be able to skip ahead if you already know a chapter's content.
+Fiecare capitol începe cu un punct ** TL, DR ** care îl rezumă, astfel încât să puteți sări peste dacă știți deja conținutul unui capitol.
 
-At the end of each chapter, a series of short and focused exercises will make you put your newly acquired skills into practice. Each part ends with a project guiding you in the creation of a social news web application.
+La sfârșitul fiecărui capitol, o serie de exerciții scurte și concentrate vă vor face să vă puneți în practică aptitudinile nou dobândite. Fiecare parte se încheie cu un proiect care te ghidează în crearea unei aplicații web de știri sociale.
 
-## Following along
+Urmărește-te
 
-You have two options for following along, depending on how eager you are to get into the action and how comfortable you feel setting up your local machine:
+Aveți două opțiuni de urmat, în funcție de cât de dornici sunteți pentru a intra în acțiune și de cât de confortabil vă simțiți în configurarea mașinii dvs. locale:
 
-* Coding online, using feature-packed JavaScript playgrounds like [CodePen](https://codepen.io) and [Glitch](https://glitch.com).
-* Building a local development environment.
+* Codificare online, folosind locații de joacă cu funcții JavaScript, cum ar fi [CodePen] (https://codepen.io) și [Glitch] (https://glitch.com).
+* Construirea unui mediu de dezvoltare locală.
 
-First option is the easiest and quickest; second one is more powerful and will probably become necessary as you tackle bigger programming challenges in a not-so-distant future. Refer to the appendix for details on both.
+Prima opțiune este cea mai ușoară și mai rapidă; al doilea este mai puternic și va deveni probabil necesar atunci când abordați provocări de programare mai mari într-un viitor nu atât de îndepărtat. Pentru detalii, consultați anexa.
 
-Whichever solution you may choose, be sure to test *every* code sample and search *every* exercise and project. Reading along is not enough: coding along is mandatory to get a real grasp of how things work and become a capable programmer.
+Indiferent de soluția pe care o puteți alege, asigurați-vă că ați testat * fiecare * eșantion de cod și căutați * fiecare * exercițiu și proiect. Citirea de-a lungul nu este suficientă: codarea de-a lungul este obligatorie pentru a obține o înțelegere reală a modului în care lucrurile funcționează și devin un programator capabil.
 
-I wish you a great journey in the wonderful world of JavaScript!
+Vă urez o călătorie minunată în lumea minunată a JavaScript!
