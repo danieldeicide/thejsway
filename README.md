@@ -1,6 +1,6 @@
-# The JavaScript Way
+# The JavaScript Way | Calea JavaScript
 
-A modern introduction to an essential language.
+O introducere modernă a unui limbaj de programare esențial.
 
 Copyright © 2017 [Baptiste Pesquet](http://bpesquet.com).
 
