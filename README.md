@@ -10,9 +10,9 @@ Copyright © 2017 [Baptiste Pesquet](http://bpesquet.com).
 
 > **New!** Use the [community forum](http://forum.thejsway.com) to discuss this project.
 
-## Overview
+## Prezentare generală
 
-This book aims to be a useful companion for anyone wishing to (re)discover the many facets of JavaScript. Numerous brain cycles were spent to make it:
+Această carte își propune să fie un companion util pentru oricine dorește să (re) descopere multe aspecte ale JavaScript. Numeroase cicluri de creier au fost cheltuite pentru a face acest lucru:
 
 * **Beginner-friendly yet comprehensive**. From the very basics of programming up to front-end and back-end web development, a lot of topics are covered in a simple and accessible way. No prior knowledge needed!
 * **Standards-aligned**. The book is entirely written using the recent **ES2015** syntax, giving you future-proof knowledge. From start to finish, it enforces good programming habits, embraces the ubiquitous JavaScript tools [ESLint](http://eslint.org) and [Prettier](https://github.com/prettier/prettier) and closely follows the popular [AirBnb Style Guide](https://github.com/airbnb/javascript).
